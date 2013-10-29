@@ -4,3 +4,9 @@ andy:
   last_name: "Georgiou"
   email: "georgiou.andy@gmail.com"
   profile_name: "andygeorgiou"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"
